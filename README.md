@@ -2,7 +2,7 @@
 
 End-to-end ML regression project predicting California housing prices from 1990 census data.
 
-**Author:** [Your Name]
+**Author:** Lija Moni
 
 ## Models Trained
 - Linear Regression (baseline) — R² = 0.597
