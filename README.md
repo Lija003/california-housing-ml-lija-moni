@@ -3,7 +3,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=California%20Housing/n%20Price%20Prediction&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Professional%20Data%20Preparation%20and%20Machine%20Learning%20with%20Python&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=California%20Housing%20Price%20Prediction&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Professional%20Data%20Preparation%20and%20Machine%20Learning%20with%20Python&descAlignY=60"
     alt="Feature Engineering Banner"
   />
 </p>
