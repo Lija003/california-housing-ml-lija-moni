@@ -16,5 +16,5 @@ End-to-end ML regression project predicting California housing prices from 1990 
 
 ## Files
 - `California_Housing_Price_Prediction.ipynb` — full notebook (EDA, cleaning, modeling, evaluation, prediction demo)
-- `summary.md` — one-page written summary of approach, results, and limitations
+- `summary.md` — one-page written summary of approach, results and limitations
 - `housing.csv` — dataset
