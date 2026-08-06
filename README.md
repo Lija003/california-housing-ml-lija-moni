@@ -1,6 +1,25 @@
-# California Housing Price Prediction
+# ML-Assignment-07 : California Housing Price Prediction
 
-End-to-end ML regression project predicting California housing prices from 1990 census data.
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Feature%20Engineering%20and%20Regression%20Modeling&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Professional%20Data%20Preparation%20and%20Machine%20Learning%20with%20Python&descAlignY=60"
+    alt="Feature Engineering Banner"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=22C55E&center=true&vCenter=true&width=900&lines=Clean+Reliable+Analysis-Ready+Data;Feature+Engineering+and+Regression+Models;Built+with+Python+Pandas+and+Scikit-Learn" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
 
 **Author:** Lija Moni
 
